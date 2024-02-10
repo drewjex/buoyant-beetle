@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Buoyant Beetle",
+  "avatar": "1zjbqxtbOIhb3bWaa",
+  "preferredColor": "forest",
+  "language": "javascript.node",
+  "game": "table-tennis",
+  "run": "node main.js"
+}
